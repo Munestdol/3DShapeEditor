@@ -1,0 +1,9 @@
+C:\Users\batyb\Downloads\PyramidСone\PyramidСone\bin\Release\PyramidСone.exe.config
+C:\Users\batyb\Downloads\PyramidСone\PyramidСone\bin\Release\PyramidСone.exe
+C:\Users\batyb\Downloads\PyramidСone\PyramidСone\bin\Release\PyramidСone.pdb
+C:\Users\batyb\Downloads\PyramidСone\PyramidСone\obj\Release\PyramidСone.Form1.resources
+C:\Users\batyb\Downloads\PyramidСone\PyramidСone\obj\Release\PyramidСone.Properties.Resources.resources
+C:\Users\batyb\Downloads\PyramidСone\PyramidСone\obj\Release\PyramidСone.csproj.GenerateResource.cache
+C:\Users\batyb\Downloads\PyramidСone\PyramidСone\obj\Release\PyramidСone.csproj.CoreCompileInputs.cache
+C:\Users\batyb\Downloads\PyramidСone\PyramidСone\obj\Release\PyramidСone.exe
+C:\Users\batyb\Downloads\PyramidСone\PyramidСone\obj\Release\PyramidСone.pdb
